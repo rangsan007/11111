@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "reactNativecrudFirebase",
+    "slug": "reactNativecrudFirebase",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "reactNativecrudFirebase"
+}
